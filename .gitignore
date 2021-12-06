@@ -1,0 +1,5 @@
+data/
+go.mod
+go.sum
+*.log
+*.exe
